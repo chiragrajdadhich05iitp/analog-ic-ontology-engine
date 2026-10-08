@@ -1,0 +1,34 @@
+{
+  "datasheets_processed": [
+    "tl084.pdf",
+    "ne555.pdf",
+    "lm741.pdf",
+    "lm2904.pdf",
+    "lm393.pdf",
+    "OP27.pdf",
+    "lm2901.pdf",
+    "lm2903.pdf",
+    "lm324.pdf",
+    "opa192.pdf",
+    "opa2134.pdf",
+    "opa197.pdf",
+    "lm339.pdf",
+    "opa188.pdf",
+    "tl072.pdf",
+    "tl071.pdf",
+    "lm358.pdf",
+    "tl074.pdf",
+    "OP07.pdf",
+    "opa277.pdf"
+  ],
+  "datasheets_failed": [],
+  "total_components": 20,
+  "total_nodes": 2269,
+  "total_edges": 31393,
+  "export_paths": {
+    "graphml": "data/graphs/master.graphml",
+    "gexf": "data/graphs/master.gexf",
+    "json": "data/graphs/master.json",
+    "cypher": "data/graphs/master.cypher"
+  }
+}

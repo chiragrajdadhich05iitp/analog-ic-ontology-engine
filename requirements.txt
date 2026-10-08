@@ -1,0 +1,9 @@
+google-generativeai
+pymupdf
+Pillow
+pydantic
+tqdm
+python-dotenv
+networkx
+pytest
+pytest-cov

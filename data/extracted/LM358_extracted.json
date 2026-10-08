@@ -1,0 +1,2822 @@
+{
+  "metadata": {
+    "file_name": "lm358.pdf",
+    "total_pages": 68,
+    "sections_found": {
+      "pin_configuration": [
+        2,
+        3,
+        31
+      ],
+      "absolute_maximum_ratings": [
+        2,
+        4,
+        28,
+        31
+      ],
+      "recommended_operating_conditions": [
+        2,
+        4,
+        5,
+        31
+      ],
+      "electrical_characteristics": [
+        2,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "package_information": [
+        1,
+        30,
+        31,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ]
+    }
+  },
+  "pin_configuration": {
+    "pages": [
+      2,
+      3,
+      31
+    ],
+    "total_pins": 21,
+    "pins": [
+      {
+        "pin_number": "1",
+        "name": "Features............................................................................1",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "2",
+        "name": "Applications.....................................................................1",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "3",
+        "name": "Description.......................................................................1",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "4",
+        "name": "Pin",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "5",
+        "name": "Specifications..................................................................",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "6",
+        "name": "Parameter",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "7",
+        "name": "Detailed",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "8",
+        "name": "Application",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "9",
+        "name": "Device",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "10",
+        "name": "Revision",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "11",
+        "name": "Mechanical,",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "12",
+        "name": "IN2+",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "13",
+        "name": "NC",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "14",
+        "name": "NC_14",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "15",
+        "name": "IN2±",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "16",
+        "name": "NC_16",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "17",
+        "name": "OUT2",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "18",
+        "name": "NC_18",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "19",
+        "name": "NC_19",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "20",
+        "name": "V+",
+        "type": null,
+        "description": null
+      },
+      {
+        "pin_number": "31",
+        "name": "PIN_31",
+        "type": null,
+        "description": null
+      }
+    ]
+  },
+  "electrical_characteristics": {
+    "section": "Electrical Characteristics",
+    "total_metrics": 263,
+    "metrics": [
+      {
+        "parameter": "Table",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "5.6",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": 2904,
+        "unit": "and",
+        "notes": null
+      },
+      {
+        "parameter": "5.12",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": 158,
+        "unit": "LM158A,",
+        "notes": null
+      },
+      {
+        "parameter": "7.2",
+        "symbol": "Functional",
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": 358,
+        "unit": "LM358BA,",
+        "notes": null
+      },
+      {
+        "parameter": "11",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "Orderable",
+        "notes": null
+      },
+      {
+        "parameter": "5.5",
+        "symbol": "Electrical",
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": 358,
+        "max_value": null,
+        "unit": "LM358BA",
+        "notes": null
+      },
+      {
+        "parameter": "(unless",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "TEST",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "OFFSET",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "drift",
+        "notes": null
+      },
+      {
+        "parameter": "Power",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "ratio",
+        "notes": null
+      },
+      {
+        "parameter": "Channel",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "INPUT",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Common-mode",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "(V+)",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "(V+)",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Common-mode",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "(V–)",
+        "symbol": "≤",
+        "test_conditions": "VCM",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "1.5",
+        "notes": null
+      },
+      {
+        "parameter": "(V–)",
+        "symbol": "≤",
+        "test_conditions": "VCM",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "2.0",
+        "notes": null
+      },
+      {
+        "parameter": "INPUT",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "drift",
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "density",
+        "notes": null
+      },
+      {
+        "parameter": "INPUT",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "10",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "MΩ||",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "4",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "GΩ||",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "OPEN-LOOP",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Open-loop",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "FREQUENCY",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Gain",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Slew",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Phase",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Overload",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "VIN",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "VS",
+        "notes": null
+      },
+      {
+        "parameter": "Settling",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "To",
+        "symbol": "0.1%,",
+        "test_conditions": "VS",
+        "min_value": null,
+        "typ_value": 5,
+        "max_value": null,
+        "unit": "2-V",
+        "notes": null
+      },
+      {
+        "parameter": "Total",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "noise",
+        "notes": null
+      },
+      {
+        "parameter": "Voltage",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "rail",
+        "notes": null
+      },
+      {
+        "parameter": "Positive",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Negative",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Output",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Short-circuit",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Capacitive",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Open-loop",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "5.5",
+        "symbol": "Electrical",
+        "test_conditions": "Characteristics:",
+        "min_value": 358,
+        "typ_value": null,
+        "max_value": 358,
+        "unit": "(continued)",
+        "notes": null
+      },
+      {
+        "parameter": "(unless",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "TEST",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "POWER",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Quiescent",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "amplifier",
+        "notes": null
+      },
+      {
+        "parameter": "Quiescent",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "amplifier",
+        "notes": null
+      },
+      {
+        "parameter": "Specified",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "only.",
+        "notes": null
+      },
+      {
+        "parameter": "5.6",
+        "symbol": "Electrical",
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": 2904,
+        "max_value": null,
+        "unit": "LM2904BA",
+        "notes": null
+      },
+      {
+        "parameter": "(unless",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "TEST",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "OFFSET",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "drift",
+        "notes": null
+      },
+      {
+        "parameter": "Power",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "Ratio",
+        "notes": null
+      },
+      {
+        "parameter": "Channel",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "INPUT",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Common-mode",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "(V+)",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "(V+)",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Common-mode",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "(V–)",
+        "symbol": "≤",
+        "test_conditions": "VCM",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "1.5",
+        "notes": null
+      },
+      {
+        "parameter": "(V–)",
+        "symbol": "≤",
+        "test_conditions": "VCM",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "2.0",
+        "notes": null
+      },
+      {
+        "parameter": "INPUT",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "drift",
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "density",
+        "notes": null
+      },
+      {
+        "parameter": "INPUT",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "10",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "MΩ||",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "4",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "GΩ||",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "OPEN-LOOP",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Open-loop",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "FREQUENCY",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Gain",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Slew",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Phase",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Overload",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "VIN",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "VS",
+        "notes": null
+      },
+      {
+        "parameter": "Settling",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "To",
+        "symbol": "0.1%,",
+        "test_conditions": "VS",
+        "min_value": null,
+        "typ_value": 5,
+        "max_value": null,
+        "unit": "2-V",
+        "notes": null
+      },
+      {
+        "parameter": "Total",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "noise",
+        "notes": null
+      },
+      {
+        "parameter": "Voltage",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "rail",
+        "notes": null
+      },
+      {
+        "parameter": "Positive",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Negative",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Output",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "1",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "-1",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Short-circuit",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Capacitive",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Open-loop",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "POWER",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "5.7",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": 358,
+        "unit": "LM358A",
+        "notes": null
+      },
+      {
+        "parameter": "For",
+        "symbol": "VS",
+        "test_conditions": "=",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "=",
+        "notes": null
+      },
+      {
+        "parameter": "TEST",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": 1,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "OFFSET",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "drift",
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "power",
+        "notes": null
+      },
+      {
+        "parameter": "supply",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "VO1/",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": 2,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Channel",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "INPUT",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Common-mode",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "(V+)",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "(V+)",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Common-mode",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "INPUT",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "drift",
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "density",
+        "notes": null
+      },
+      {
+        "parameter": "nV/√",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "OPEN-LOOP",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Open-loop",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "FREQUENCY",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Gain",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Slew",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Voltage",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "rail",
+        "notes": null
+      },
+      {
+        "parameter": "Positive",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Negative",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Output",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "=",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": 1,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Short-circuit",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "POWER",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Quiescent",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "amplifier",
+        "notes": null
+      },
+      {
+        "parameter": "All",
+        "symbol": "characteristics",
+        "test_conditions": "are",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "conditions,",
+        "notes": null
+      },
+      {
+        "parameter": "Maximum",
+        "symbol": "VS",
+        "test_conditions": "for",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "30",
+        "notes": null
+      },
+      {
+        "parameter": "All",
+        "symbol": "typical",
+        "test_conditions": "values",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "25°C.",
+        "notes": null
+      },
+      {
+        "parameter": "5.8",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": 2904,
+        "unit": "LM2904V",
+        "notes": null
+      },
+      {
+        "parameter": "For",
+        "symbol": "VS",
+        "test_conditions": "=",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "=",
+        "notes": null
+      },
+      {
+        "parameter": "TEST",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": 1,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "TYP",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": 2,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "OFFSET",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "1.4",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Non-A",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "drift",
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": "offset",
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "supply",
+        "notes": null
+      },
+      {
+        "parameter": "VO1/",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": 2,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Channel",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "INPUT",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Common-mode",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "(V+)",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "(V+)",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Common-mode",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "INPUT",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Non-V",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "drift",
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "density",
+        "notes": null
+      },
+      {
+        "parameter": "nV/√",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "OPEN-LOOP",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Open-loop",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "FREQUENCY",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Gain",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Slew",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Voltage",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "rail",
+        "notes": null
+      },
+      {
+        "parameter": "Positive",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "RL",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": 10,
+        "unit": "kΩ",
+        "notes": null
+      },
+      {
+        "parameter": "VS",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Non-V",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "2",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "10",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "V-suffix",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "2",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "10",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Negative",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Output",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Non-V",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "V-suffix",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Short-circuit",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "POWER",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Quiescent",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "amplifier",
+        "notes": null
+      },
+      {
+        "parameter": "All",
+        "symbol": "characteristics",
+        "test_conditions": "are",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "conditions,",
+        "notes": null
+      },
+      {
+        "parameter": "Maximum",
+        "symbol": "VS",
+        "test_conditions": "for",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "26",
+        "notes": null
+      },
+      {
+        "parameter": "All",
+        "symbol": "typical",
+        "test_conditions": "values",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "25°C.",
+        "notes": null
+      },
+      {
+        "parameter": "5.9",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": 158,
+        "unit": "LM158A",
+        "notes": null
+      },
+      {
+        "parameter": "For",
+        "symbol": "VS",
+        "test_conditions": "=",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "=",
+        "notes": null
+      },
+      {
+        "parameter": "TEST",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": 1,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "OFFSET",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "drift",
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": "offset",
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "supply",
+        "notes": null
+      },
+      {
+        "parameter": "VO1/",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": 2,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Channel",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "INPUT",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Common-mode",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "(V+)",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "(V+)",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Common-mode",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "INPUT",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "drift",
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "density",
+        "notes": null
+      },
+      {
+        "parameter": "nV/√",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "OPEN-LOOP",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Open-loop",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "FREQUENCY",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Gain",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Slew",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Voltage",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "rail",
+        "notes": null
+      },
+      {
+        "parameter": "Positive",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Negative",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Output",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Short-circuit",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "5.9",
+        "symbol": "Electrical",
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": 158,
+        "max_value": 158,
+        "unit": "(continued)",
+        "notes": null
+      },
+      {
+        "parameter": "For",
+        "symbol": "VS",
+        "test_conditions": "=",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "=",
+        "notes": null
+      },
+      {
+        "parameter": "TEST",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": 1,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "POWER",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Quiescent",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "amplifier",
+        "notes": null
+      },
+      {
+        "parameter": "All",
+        "symbol": "characteristics",
+        "test_conditions": "are",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "conditions,",
+        "notes": null
+      },
+      {
+        "parameter": "Maximum",
+        "symbol": "VS",
+        "test_conditions": "for",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "30",
+        "notes": null
+      },
+      {
+        "parameter": "All",
+        "symbol": "typical",
+        "test_conditions": "values",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "25°C.",
+        "notes": null
+      },
+      {
+        "parameter": "On",
+        "symbol": "products",
+        "test_conditions": "compliant",
+        "min_value": null,
+        "typ_value": -38535,
+        "max_value": null,
+        "unit": "parameter",
+        "notes": null
+      },
+      {
+        "parameter": "5.10",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": 258,
+        "unit": "LM258A",
+        "notes": null
+      },
+      {
+        "parameter": "For",
+        "symbol": "VS",
+        "test_conditions": "=",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "=",
+        "notes": null
+      },
+      {
+        "parameter": "TEST",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": 1,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "OFFSET",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "drift",
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": "offset",
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "supply",
+        "notes": null
+      },
+      {
+        "parameter": "VO1/",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": 2,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Channel",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "INPUT",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Common-mode",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "(V+)",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "(V+)",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Common-mode",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "INPUT",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "drift",
+        "notes": null
+      },
+      {
+        "parameter": "Input",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "density",
+        "notes": null
+      },
+      {
+        "parameter": "nV/√",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "OPEN-LOOP",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Open-loop",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "FREQUENCY",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Gain",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Slew",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Voltage",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "rail",
+        "notes": null
+      },
+      {
+        "parameter": "Positive",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Negative",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Output",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Short-circuit",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "POWER",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": null,
+        "notes": null
+      },
+      {
+        "parameter": "Quiescent",
+        "symbol": null,
+        "test_conditions": null,
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "amplifier",
+        "notes": null
+      },
+      {
+        "parameter": "All",
+        "symbol": "characteristics",
+        "test_conditions": "are",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "conditions,",
+        "notes": null
+      },
+      {
+        "parameter": "Maximum",
+        "symbol": "VS",
+        "test_conditions": "for",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "30",
+        "notes": null
+      },
+      {
+        "parameter": "All",
+        "symbol": "typical",
+        "test_conditions": "values",
+        "min_value": null,
+        "typ_value": null,
+        "max_value": null,
+        "unit": "25°C.",
+        "notes": null
+      }
+    ]
+  }
+}
